@@ -14,8 +14,9 @@
   <img align="center" alt="Wanderson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Wanderson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+ 
+  ##
   
-  <br><br>
  <div> 
   <a href="https://www.linkedin.com/in/wanderson-oliveira-a1119316b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
