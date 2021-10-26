@@ -1,6 +1,6 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wanderson Oliveira</h1>
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -13,7 +13,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -30,9 +30,9 @@
 <a href="https://www.linkedin.com/in/wanderson-oliveira-a1119316b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/wanderson-oliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/" target="_blank">
+<!-- <a href="https://instagram.com/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/w.oliveira_silva-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+</a> -->
 </p>
 
 <!--
