@@ -5,12 +5,14 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React-Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![React-Native](https://img.shields.io/badge/-reactnative-05122A?style=flat&logo=Reactnative)&nbsp;
+
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 
 
@@ -29,7 +31,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/wanderson-oliveira-a1119316b/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/wanderson-oliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/wanderson-oliveira-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <!-- <a href="https://instagram.com/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/w.oliveira_silva-05122A?style=flat&logo=instagram" alt="instagram"/>
