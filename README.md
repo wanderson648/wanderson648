@@ -12,10 +12,9 @@ wandersonoliveira12345@gmail.com
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/wanderson-oliveira-a1119316b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/wanderson-oliveira-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-
+</a>  
+<br><br>
   
-  <br>
 ## 🛠 &nbsp;Tech Stack
 
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=Android-Studio)&nbsp;
