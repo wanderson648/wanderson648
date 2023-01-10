@@ -1,7 +1,21 @@
-<h1 align="left">Olá! Me chamo Wandeson!</h1>
+<h2 align="left">Olá! Me chamo Wandeson!</h2>
+
+Sou apaixonado por tecnologia, curso Análise e Desenvolvimento de Sistemas. Meu primeiro contato com linguagem de programação foi na faculdade. Hoje estou focando meus estudos em Android Nativo com a linguagem Kotlin e Java.
+
+Transição de carreira.
+wandersonoliveira12345@gmail.com
 
 <br>
 
+## 😉 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/wanderson-oliveira-a1119316b/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/wanderson-oliveira-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+
+  
+  <br>
 ## 🛠 &nbsp;Tech Stack
 
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=Android-Studio)&nbsp;
@@ -11,10 +25,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 
@@ -29,12 +43,7 @@
 
 <br><br>
 
-## 😉 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/wanderson-oliveira-a1119316b/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/wanderson-oliveira-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
 <!-- <a href="https://instagram.com/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/w.oliveira_silva-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a> -->
