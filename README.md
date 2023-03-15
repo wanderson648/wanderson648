@@ -2,7 +2,6 @@
 
 Sou apaixonado por tecnologia, curso Análise e Desenvolvimento de Sistemas. Meu primeiro contato com linguagem de programação foi na faculdade. Hoje estou focando meus estudos em Android Nativo com a linguagem Java e Kotlin.
 
-Transição de carreira.
 wandersonoliveira12345@gmail.com
 
 <br>
