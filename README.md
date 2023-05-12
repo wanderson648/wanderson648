@@ -1,6 +1,6 @@
 <h2 align="left">Olá! Me chamo Wandeson!</h2>
 
-Sou apaixonado por tecnologia, curso Análise e Desenvolvimento de Sistemas. Meu primeiro contato com linguagem de programação foi na faculdade. Hoje estou focando meus estudos em Android Nativo com a linguagem Java e Kotlin.
+Sou apaixonado por tecnologia, curso Análise e Desenvolvimento de Sistemas.
 
 wandersonoliveira12345@gmail.com
 
